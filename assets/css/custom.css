@@ -1,0 +1,10 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+ .side{
+ 	z-index: 9999;
+ }
+
+ #map-container{
+ 	z-index: 8;
+ }
